@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&duration=4000&pause=1000&color=72F2EB&vCenter=true&random=false&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Force+aka+Moonglow+!)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&duration=4000&pause=1000&color=72F2EB&vCenter=true&random=false&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Force+aka+Moonglow+!)](https://git.io/typing-svg)
 # 💫 About Me:
 Всё что не делается, делается для того, чтобы я мог смотреть мемы с Валерием Жмышенко <br>
 Кстати чусь в БГТУ (BSTU), ПИ 
